@@ -14,11 +14,11 @@ class Home extends StatelessWidget {
         backgroundColor: Colors.blue,
         title: Text("My App"),
       ),
-      // body: Container(
-      // padding: EdgeInsets.fromLTRB(20.0, 10.0, 40.0, 30.0),
-      //margin: EdgeInsets.all(30.0),
-      //color: Colors.green[800],
-      /* body: Row(
+      /* body: Container(
+   padding: EdgeInsets.fromLTRB(20.0, 10.0, 40.0, 30.0),
+      margin: EdgeInsets.all(30.0),
+      color: Colors.green[800],
+      body: Row(
         mainAxisAlignment: MainAxisAlignment.spaceEvenly,
         crossAxisAlignment: CrossAxisAlignment.start,
         children: <Widget>[
